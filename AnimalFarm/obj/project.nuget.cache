@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hg9iJboD2Owed+WM40RBxR2htuBjfUZEiK1MPh1RzgLBLpsgH6z/iaE5kt7kuIIO2LU6ea2+oG2ubF9mUVnWUA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\AnimalFarm\\AnimalFarm\\AnimalFarm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35987\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\35987\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\35987\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\35987\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

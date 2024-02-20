@@ -1,0 +1,11 @@
+C:\Users\niki\Downloads\AnimalFarm\Box\bin\Debug\netcoreapp3.0\Box.exe
+C:\Users\niki\Downloads\AnimalFarm\Box\bin\Debug\netcoreapp3.0\Box.deps.json
+C:\Users\niki\Downloads\AnimalFarm\Box\bin\Debug\netcoreapp3.0\Box.runtimeconfig.json
+C:\Users\niki\Downloads\AnimalFarm\Box\bin\Debug\netcoreapp3.0\Box.runtimeconfig.dev.json
+C:\Users\niki\Downloads\AnimalFarm\Box\bin\Debug\netcoreapp3.0\Box.dll
+C:\Users\niki\Downloads\AnimalFarm\Box\bin\Debug\netcoreapp3.0\Box.pdb
+C:\Users\niki\Downloads\AnimalFarm\Box\obj\Debug\netcoreapp3.0\Box.csprojAssemblyReference.cache
+C:\Users\niki\Downloads\AnimalFarm\Box\obj\Debug\netcoreapp3.0\Box.AssemblyInfoInputs.cache
+C:\Users\niki\Downloads\AnimalFarm\Box\obj\Debug\netcoreapp3.0\Box.AssemblyInfo.cs
+C:\Users\niki\Downloads\AnimalFarm\Box\obj\Debug\netcoreapp3.0\Box.dll
+C:\Users\niki\Downloads\AnimalFarm\Box\obj\Debug\netcoreapp3.0\Box.pdb

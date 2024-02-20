@@ -1,0 +1,11 @@
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.exe
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.deps.json
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.json
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.runtimeconfig.dev.json
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.dll
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.0\AnimalFarm.pdb
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.csprojAssemblyReference.cache
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.AssemblyInfo.cs
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.dll
+C:\Users\niki\Downloads\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.0\AnimalFarm.pdb
